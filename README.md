@@ -8,15 +8,6 @@ I'm a web developer from Afghanistan with a Bachelor’s degree in Computer Scie
 
 My work focuses on **education platforms, multilingual websites, and accessible digital tools**. I care about clear design, responsive layouts, and making information useful to people in their own languages.
 
-## 🚀 What I'm Building
-
-- **Khaksar Date Converter** — a tool for working with Afghan Shamsi, Gregorian, and Hijri dates.
-- **Afghanistan 34** — a platform for exploring information about Afghanistan.
-- **Golden Choice Educational Center** — a digital presence for an educational center.
-- **AbdulArt** — a platform for creative design services.
-
-These projects help me put ideas into practice, improve my development skills, and create tools that serve real needs.
-
 ## 💼 Languages and Tools
 
 <p>
