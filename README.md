@@ -8,6 +8,9 @@ I'm a web developer from Afghanistan with a Bachelor’s degree in Computer Scie
 
 My work focuses on **education platforms, multilingual websites, and accessible digital tools**. I care about clear design, responsive layouts, and making information useful to people in their own languages.
 
+##  My Projects
+1. Khaksar Date Converter : https://abdulsoft-af.github.io/Khaksar-Date-Converter/
+
 ## 💼 Languages and Tools
 
 <p>
