@@ -2,7 +2,7 @@
 
 ### Web Developer · Computer Science (IT) Graduate · Building Digital Tools for Afghanistan
 
-<p align="center">
+<p >
   <a href="https://user-badge.committers.top/afghanistan_private/AbdulSoft-af">
     <img src="https://user-badge.committers.top/afghanistan_private/AbdulSoft-af.svg" alt="committers.top badge">
   </a>
