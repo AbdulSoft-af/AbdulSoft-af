@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate develop
   <a href="https://wordpress.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="45" height="45" alt="WordPress"></a>
   <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"></a>
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"></a>
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"></a>
+  
 </p>
 
 ---
