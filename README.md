@@ -72,9 +72,6 @@ Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate develop
 ## 🏆 Achievements & Profile
 
 <p align="left">
-  <a href="https://user-badge.committers.top/afghanistan_private/AbdulSoft-af">
-    <img src="https://user-badge.committers.top/afghanistan_private/AbdulSoft-af.svg" alt="Committers Top Badge">
-  </a>
   <img src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
