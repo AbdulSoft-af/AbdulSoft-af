@@ -1,6 +1,11 @@
 
 # Assalamu Alaikum 👋, I'm Abdul Ghafar Khaksar
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulSoft-af)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
 ### 💻 Full Stack Web Developer | Software Developer | Tech Enthusiast
 
