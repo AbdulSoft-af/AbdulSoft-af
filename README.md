@@ -7,7 +7,7 @@
   />
 </p>
 
-### 💻 Full Stack Web Developer | Software Developer | Tech Enthusiast
+### 💻  Web & App Developer | Tech Enthusiast
 
 Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate developer from Afghanistan 🇦🇫 who enjoys building modern websites, web applications, and software solutions. I love learning new technologies, solving problems, and turning creative ideas into practical digital products.
 
