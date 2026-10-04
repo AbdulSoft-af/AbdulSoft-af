@@ -1,5 +1,8 @@
 
 # Assalamu Alaikum 👋, I'm Abdul Ghafar Khaksar
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 ### 💻 Full Stack Web Developer | Software Developer | Tech Enthusiast
 
@@ -69,13 +72,7 @@ Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate develop
 
 ---
 
-## 🏆 Achievements & Profile
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
----
 
 ## 🤝 Let's Build Something Great!
 
