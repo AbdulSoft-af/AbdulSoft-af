@@ -16,8 +16,6 @@ Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate develop
 * 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Laravel, React, Next.js, WordPress, and Flutter
 * 🤝 **Open to:** Collaboration, freelance projects, and open-source contributions
 * 📍 **Location:** Afghanistan 🇦🇫
-* 📧 **Email:** [Abdulghafar.khaksar.af@gmail.com](mailto:Abdulghafar.khaksar.af@gmail.com)
-* 📱 **WhatsApp:** [+93 788 121 114](https://wa.me/93788121114)
 
 ---
 
