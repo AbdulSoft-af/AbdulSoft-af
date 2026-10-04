@@ -2,7 +2,12 @@
 
 ### Web Developer · Computer Science (IT) Graduate · Building Digital Tools for Afghanistan
 
-![Profile views](https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <a href="https://user-badge.committers.top/afghanistan_private/AbdulSoft-af">
+    <img src="https://user-badge.committers.top/afghanistan_private/AbdulSoft-af.svg" alt="committers.top badge">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
 I'm a web developer from Afghanistan with a Bachelor’s degree in Computer Science (IT) from Bost University. I combine my background in technology and networking with an interest in building websites that solve practical problems.
 
