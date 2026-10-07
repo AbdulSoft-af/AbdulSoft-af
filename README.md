@@ -62,21 +62,6 @@ Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate develop
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulSoft-af&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSoft-af&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdulSoft-af&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
-</p>
-
----
-
-
-
 ## 🤝 Let's Build Something Great!
 
 I'm always interested in connecting with developers, collaborating on innovative ideas, and building useful software. If you have a project or an idea, feel free to contact me.
