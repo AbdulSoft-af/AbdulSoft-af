@@ -11,7 +11,7 @@
 
 Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate developer from Afghanistan 🇦🇫 who enjoys building modern websites, web applications, and software solutions. I love learning new technologies, solving problems, and turning creative ideas into practical digital products.
 
-Date Converter Tool: https://abdulsoft-af.github.io/Khaksar-Date-Converter
+---
 
 * 🔭 **Currently working on:** Web applications and software projects
 * 🌱 **Currently learning:** Advanced web development, Flutter, Node.js, and database technologies
