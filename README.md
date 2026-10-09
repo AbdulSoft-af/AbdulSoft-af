@@ -69,7 +69,3 @@ I'm always interested in connecting with developers, collaborating on innovative
 📧 **Email:** [Abdulghafar.khaksar.af@gmail.com](mailto:Abdulghafar.khaksar.af@gmail.com)
 
 📱 **WhatsApp:** [+93 788 121 114](https://wa.me/93788121114)
-
-<p align="center">
-  <b>Made with ❤️ by Abdul Ghafar Khaksar 🇦🇫</b>
-</p>
