@@ -17,7 +17,8 @@ khaksar English Typing :https://abdulsoft-af.github.io/Khaksar-English-Typing-Pr
 <br>
 Khaksar Currency Converter : https://abdulsoft-af.github.io/Khaksar-Currency-Converter/
 <br>
-SAARE د افغانستان د مخابراتو معلومات په یوه ځای کې :
+SAARE د افغانستان د مخابراتو معلومات په یوه ځای کې :https://abdulsoft-af.github.io/SAARE/
+
 ---
 
 ## 🌐 Connect With Me
