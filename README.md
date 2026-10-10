@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulSoft-af&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E9A,100:6D5DFB&height=210&section=header&text=Abdul%20Ghafar%20Khaksar&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20WORDPRESS%20EXPERT&descAlignY=60&descSize=13" width="100%" alt="Abdul Ghafar Khaksar"/>
@@ -17,7 +16,7 @@
 </div>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulSoft-af&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ## 👋 About Me
 
 Assalamu Alaikum! I'm **Abdul Ghafar Khaksar**, a Full Stack Web Developer and WordPress Expert from Afghanistan.
