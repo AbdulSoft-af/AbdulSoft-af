@@ -83,8 +83,7 @@ SAARE د افغانستان د مخابراتو معلومات په یوه ځا�
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="45" height="45"/>
   </a>
   <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="45" height="45"/>
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="45" height="45"/> </a>
 </p>
 
 ---
