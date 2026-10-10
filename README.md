@@ -1,97 +1,143 @@
+<div align="center">
 
-# Assalamu Alaikum 👋, I'm Abdul Ghafar Khaksar
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E9A,100:6D5DFB&height=210&section=header&text=Abdul%20Ghafar%20Khaksar&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20WORDPRESS%20EXPERT&descAlignY=60&descSize=13" width="100%" alt="Abdul Ghafar Khaksar"/>
 
-I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with five years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Bost University in Helmand, Afghanistan, and currently. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here .
+<a href="https://github.com/AbdulSoft-af">
+<img src="https://img.shields.io/badge/GitHub-AbdulSoft--af-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://github.com/AbdulSoft-af?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-2563EB?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
----
-### My Projects Demo
-Khaksar Pashto Typing : https://abdulsoft-af.github.io/Khaksar-Pashto-Typing/
-<br>
-khaksar English Typing :https://abdulsoft-af.github.io/Khaksar-English-Typing-Pro/
-<br>
-Khaksar Currency Converter : https://abdulsoft-af.github.io/Khaksar-Currency-Converter/
-<br>
-SAARE د افغانستان د مخابراتو معلومات په یوه ځای کې :https://abdulsoft-af.github.io/SAARE/
+<br/>
+
+*Turning ideas into useful digital experiences.*
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 👋 About Me
 
-<p align="left">
-  <a href="https://github.com/AbdulSoft-af">
-    <img src="https://img.shields.io/badge/GitHub-AbdulSoft--af-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:Abdulghafar.khaksar.af@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/93788121114">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+Assalamu Alaikum! I'm **Abdul Ghafar Khaksar**, a Full Stack Web Developer and WordPress Expert from Afghanistan.
 
----
+I enjoy building responsive websites, practical web applications, and user-friendly digital tools. My focus is on clean code, thoughtful design, and creating solutions that people can use in their everyday lives.
 
- ## Languages and Tools
+- 💻 Full Stack Web Development
+- 🌐 WordPress Website Development
+- 🎨 Responsive UI and UX
+- 🚀 Building useful web applications
+- 📚 Continuously learning and improving
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  </a>
-  <a href="https://wordpress.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="45" height="45"/>
-  </a>
-  <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="45" height="45"/> </a>
-</p>
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" alt="Frontend skills"/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&perline=7" alt="Backend skills"/>
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,ps,wordpress&perline=7" alt="Development and design tools"/>
+
+</div>
 
 ---
 
-## 🤝 Let's Build Something Great!
+## 🚀 Featured Projects
 
-I'm always interested in connecting with developers, collaborating on innovative ideas, and building useful software. If you have a project or an idea, feel free to contact me.
+These are my real projects. Explore the live demos or open their source repositories.
 
-📧 **Email:** [Abdulghafar.khaksar.af@gmail.com](mailto:Abdulghafar.khaksar.af@gmail.com)
+### 01. Khaksar Pashto Typing
 
-📱 **WhatsApp:** [+93 788 121 114](https://wa.me/93788121114)
+A typing practice application for Pashto learners, designed to help users improve their typing speed and accuracy.
+
+<div align="left">
+
+<a href="https://abdulsoft-af.github.io/Khaksar-Pashto-Typing/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pashto Typing Live Demo"/>
+</a>
+<a href="https://github.com/AbdulSoft-af/Khaksar-Pashto-Typing">
+<img src="https://img.shields.io/badge/Source_Code-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Pashto Typing Source Code"/>
+</a>
+
+</div>
+
+### 02. Khaksar English Typing Pro
+
+A responsive, offline-ready English typing application built with HTML, CSS, and vanilla JavaScript.
+
+<div align="left">
+
+<a href="https://abdulsoft-af.github.io/Khaksar-English-Typing-Pro/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="English Typing Live Demo"/>
+</a>
+<a href="https://github.com/AbdulSoft-af/Khaksar-English-Typing-Pro">
+<img src="https://img.shields.io/badge/Source_Code-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="English Typing Source Code"/>
+</a>
+
+</div>
+
+### 03. Khaksar Currency Converter
+
+A currency conversion tool that retrieves exchange rates from a public online source.
+
+<div align="left">
+
+<a href="https://abdulsoft-af.github.io/Khaksar-Currency-Converter/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Currency Converter Live Demo"/>
+</a>
+<a href="https://github.com/AbdulSoft-af/Khaksar-Currency-Converter">
+<img src="https://img.shields.io/badge/Source_Code-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Currency Converter Source Code"/>
+</a>
+
+</div>
+
+### 04. SAARE — Afghanistan Telecom Guide
+
+A telecom information guide bringing information about Afghanistan's telecom services and packages together in one place.
+
+<div align="left">
+
+<a href="https://abdulsoft-af.github.io/SAARE/">
+<img src="https://img.shields.io/badge/Live_Demo-Visit_Project-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SAARE Live Demo"/>
+</a>
+<a href="https://github.com/AbdulSoft-af/SAARE">
+<img src="https://img.shields.io/badge/Source_Code-View_Repository-24292F?style=for-the-badge&logo=github&logoColor=white" alt="SAARE Source Code"/>
+</a>
+
+</div>
+
+---
+
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, collaborating on useful projects, and exploring new ideas.
+
+<div align="center">
+
+<a href="https://github.com/AbdulSoft-af">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:Abdulghafar.khaksar.af@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/93788121114">
+<img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile!**
+
+*Learn continuously. Build thoughtfully. Make a difference.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:164E9A,100:101828&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
