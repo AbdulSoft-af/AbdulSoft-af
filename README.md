@@ -11,7 +11,7 @@ I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with
 
 ---
 ### My Projects Demo
-
+Khaksar Pashto Typing :https://abdulsoft-af.github.io/Khaksar-Pashto-Typing-Demo/
 
 ---
 
