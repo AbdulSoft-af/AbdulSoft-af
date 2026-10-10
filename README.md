@@ -16,8 +16,9 @@
 </div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulSoft-af&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 ## 👋 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulSoft-af&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) 
 
 Assalamu Alaikum! I'm **Abdul Ghafar Khaksar**, a Full Stack Web Developer and WordPress Expert from Afghanistan.
 
