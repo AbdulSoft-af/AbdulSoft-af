@@ -14,6 +14,8 @@ I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with
 Khaksar Pashto Typing : https://abdulsoft-af.github.io/Khaksar-Pashto-Typing/
 <br>
 khaksar English Typing :
+<br>
+Khaksar Currency Converter :
 
 ---
 
