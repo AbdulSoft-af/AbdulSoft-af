@@ -9,15 +9,11 @@
 
 ### 💻  Web & App Developer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm **Abdul Ghafar Khaksar**, a passionate developer from Afghanistan 🇦🇫 who enjoys building modern websites, web applications, and software solutions. I love learning new technologies, solving problems, and turning creative ideas into practical digital products.
+I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with five years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Bost University in Helmand, Afghanistan, and currently. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here .
 
 ---
+### My Projects Demo
 
-* 🔭 **Currently working on:** Web applications and software projects
-* 🌱 **Currently learning:** Advanced web development, Flutter, Node.js, and database technologies
-* 💬 **Ask me about:** HTML, CSS, JavaScript, PHP, Laravel, React, Next.js, WordPress, and Flutter
-* 🤝 **Open to:** Collaboration, freelance projects, and open-source contributions
-* 📍 **Location:** Afghanistan 🇦🇫
 
 ---
 
