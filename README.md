@@ -12,6 +12,7 @@ I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with
 ---
 ### My Projects Demo
 Khaksar Pashto Typing :
+<br>
 khaksar English Typing :
 
 ---
