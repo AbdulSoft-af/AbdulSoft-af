@@ -7,8 +7,6 @@
   />
 </p>
 
-### 💻  Web & App Developer | Tech Enthusiast
-
 I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with five years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Bost University in Helmand, Afghanistan, and currently. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here .
 
 ---
