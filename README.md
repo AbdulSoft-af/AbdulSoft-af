@@ -13,7 +13,7 @@ I’m Abdul Ghafar Khaksar, a Full Stack Web Developer and WordPress Expert with
 ### My Projects Demo
 Khaksar Pashto Typing : https://abdulsoft-af.github.io/Khaksar-Pashto-Typing/
 <br>
-khaksar English Typing :
+khaksar English Typing :https://abdulsoft-af.github.io/Khaksar-English-Typing-Pro/
 <br>
 Khaksar Currency Converter : https://abdulsoft-af.github.io/Khaksar-Currency-Converter/
 
