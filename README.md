@@ -15,7 +15,7 @@ Khaksar Pashto Typing : https://abdulsoft-af.github.io/Khaksar-Pashto-Typing/
 <br>
 khaksar English Typing :
 <br>
-Khaksar Currency Converter :
+Khaksar Currency Converter : https://abdulsoft-af.github.io/Khaksar-Currency-Converter/
 
 ---
 
