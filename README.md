@@ -76,4 +76,4 @@ I'm interested in connecting with developers, collaborating on useful projects, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:164E9A,100:101828&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
- نور هم ښایسته او معیاری شی
+ 
