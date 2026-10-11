@@ -1,113 +1,79 @@
+![Profile Views](https://komarev.com/ghpvc/?username=AbdulSoft-af&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,45:163A70,100:7257FF&height=230&section=header&text=Abdul%20Ghafar%20Khaksar&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20WORDPRESS%20SPECIALIST&descSize=13&descAlignY=57&animation=fadeIn" width="100%" alt="Abdul Ghafar Khaksar Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E9A,100:6D5DFB&height=210&section=header&text=Abdul%20Ghafar%20Khaksar&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20WORDPRESS%20EXPERT&descAlignY=60&descSize=13" width="100%" alt="Abdul Ghafar Khaksar"/>
 
 <a href="https://github.com/AbdulSoft-af">
-<img src="https://img.shields.io/badge/GitHub-AbdulSoft--af-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-AbdulSoft--af-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://github.com/AbdulSoft-af?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-<a href="mailto:Abdulghafar.khaksar.af@gmail.com">
-<img src="https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Explore-My_Repositories-2563EB?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdulSoft-af&label=PROFILE%20VIEWS&color=7257FF&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/AbdulSoft-af?label=Followers&style=flat-square&color=2563EB" alt="GitHub followers"/>
-
-### Building Digital Experiences That Matter
-
-*Clean Code • Modern Design • Practical Solutions*
+*Turning ideas into useful digital experiences.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Assalamu Alaikum! I'm **Abdul Ghafar Khaksar**, a developer from **Afghanistan 🇦🇫**, passionate about creating modern websites, useful web applications, and practical digital tools.
+Assalamu Alaikum! I'm **Abdul Ghafar Khaksar**, a Full Stack Web Developer and WordPress Expert from Afghanistan.
 
-I focus on building responsive interfaces, developing reliable web solutions, and continuously improving my skills through real-world projects.
+I enjoy building responsive websites, practical web applications, and user-friendly digital tools. My focus is on clean code, thoughtful design, and creating solutions that people can use in their everyday lives.
 
 - 💻 Full Stack Web Development
-- 🌐 WordPress Development & Customization
-- 🎨 Responsive UI/UX and modern web design
-- ⚙️ Interactive applications with JavaScript
-- 🧩 Clean, maintainable, and reusable code
-- 🚀 Turning ideas into practical digital products
-- 📚 Always learning, experimenting, and building
+- 🌐 WordPress Website Development
+- 🎨 Responsive UI and UX
+- 🚀 Building useful web applications
+- 📚 Continuously learning and improving
 
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Frontend Development
+**Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7" alt="Frontend skills"/>
 
-### Backend & Database
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql&perline=7" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&perline=7" alt="Backend skills"/>
 
-### CMS, Tools & Design
+**Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,figma,photoshop,vscode&perline=6" alt="Tools and design"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-Explore my repositories to discover my work, experiments, and ongoing projects.
-
-<div align="center">
-
-<a href="https://github.com/AbdulSoft-af?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-All%20Repositories-7257FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,figma,ps,wordpress&perline=7" alt="Development and design tools"/>
 
 </div>
-
----
-
-## 🎯 Current Focus
-
-- Building useful and accessible web applications
-- Improving frontend architecture and responsive layouts
-- Developing practical developer tools
-- Exploring better coding workflows and software quality
-- Creating projects that solve real problems
 
 ---
 
 ## 🤝 Let's Connect
 
+I'm interested in connecting with developers, collaborating on useful projects, and exploring new ideas.
+
 <div align="center">
 
 <a href="https://github.com/AbdulSoft-af">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="mailto:Abdulghafar.khaksar.af@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://wa.me/93788121114">
-<img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 <br/><br/>
 
-*Open to learning, collaboration, and building meaningful projects.*
-
 **Thanks for visiting my profile!**
 
-*Keep Learning · Keep Building · Keep Growing*
+*Learn continuously. Build thoughtfully. Make a difference.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7257FF,50:163A70,100:080D1A&height=120&section=footer" width="100%" alt="Profile footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,50:164E9A,100:101828&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
+ نور هم ښایسته او معیاری شی
