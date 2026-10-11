@@ -62,22 +62,6 @@ I focus on building responsive interfaces, developing reliable web solutions, an
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulSoft-af&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSoft-af&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AbdulSoft-af&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 Explore my repositories to discover my work, experiments, and ongoing projects.
