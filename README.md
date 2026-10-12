@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E9A,100:6D5DFB&height=210&section=header&text=Abdul%20Ghafar%20Khaksar&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20WORDPRESS%20EXPERT&descAlignY=60&descSize=13" width="100%" alt="Abdul Ghafar Khaksar"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:164E9A,100:6D5DFB&height=210&section=header&text=Abdul%20Ghafar%20Khaksar&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20MOBILE%20APP%20DEVELOPER&descAlignY=60&descSize=13"
+  width="100%"
+  alt="Abdul Ghafar Khaksar — Full Stack Web Developer and Mobile App Developer"
+/>
 
 <a href="https://github.com/AbdulSoft-af">
 <img src="https://img.shields.io/badge/GitHub-AbdulSoft--af-181717?style=for-the-badge&logo=github" alt="GitHub"/>
