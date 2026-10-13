@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I’m Abdul Ghafar Khaskar, a Full Stack Web Developer  with three years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Bost University in Helmand, Afghanistan, and currently. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life.
+I’m Abdul Ghafar Khaskar, a Full Stack Web Developer  with three years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Bost University in Helmand, Afghanistan. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life.
 
 - 💻 Full Stack Web Development
 - 🌐 WordPress Website Development
